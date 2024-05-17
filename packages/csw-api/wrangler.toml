@@ -1,8 +1,9 @@
 name = "csw-api"
 compatibility_date = "2023-12-01"
 
-# [vars]
-# MY_VAR = "my-variable"
+[vars]
+SUPABASE_URL = ""
+SUPABASE_KEY = ""
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
