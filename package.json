@@ -8,10 +8,8 @@
   },
   "workspaces": [
     "packages/csw-api",
+    "packages/csw-sockets",
     "packages/csw-app",
     "packages/csw-components"
-  ],
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  ]
 }
